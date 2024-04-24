@@ -8,7 +8,7 @@ For detailed documentation on how to use VideoSDK, including installation guides
 
 ## Examples
 
-Currently, we are in the process of adding more examples to demonstrate the full capabilities of VideoSDK. Stay tuned for updates! In the meantime, you can visit [our documentation](https://docs.pathfindr.dev) for more information.
+Currently, we are in the process of adding more examples to demonstrate the full capabilities of VideoSDK. Stay tuned for updates! In the meantime, you can visit [our website](https://pathfindr.dev) for more information.
 
 ## Issues and Feedback
 
